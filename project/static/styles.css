@@ -1,0 +1,70 @@
+/* alter as I see fit */
+
+nav .navbar-brand
+{
+    /* size for brand */
+    font-size: x-large;
+}
+
+header {
+    text-align: center;
+    font-family: garamond;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    font-family: garamond;
+    font-size: 20px;
+}
+
+main .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+main
+{
+    /* scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* center contents */
+    text-align: center;
+}
+
+main img
+{
+    /* constrain images on small screens */
+    max-width: 100%;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+ul {
+    list-style: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

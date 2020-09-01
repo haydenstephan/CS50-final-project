@@ -1,0 +1,39 @@
+PROJECT IDEAS:
+
+1. About.
+
+Links: (SIDEBAR MATERIAL)
+-links to student and faculty webpages
+-links to SLU; SLU library & philosophy librarian; Phil papers
+-links to other helpful websites
+-link to SLU GSA
+-link to SLU grad phil students page
+
+Text Files:
+-syllabi from teachers and students
+-teaching resources
+-articles/books
+-bingo sheet
+-handbook
+-reimbursement instructions
+
+Information:
+-mission statement
+-staff with pictures
+-calendar/upcoming events
+
+SLU Grad Student Conference
+-audio and video files
+-Call for Papers
+
+
+Nav Bar: About, Teaching Resources (syllabi from teachers and students, teaching resources), Calendar, Annual Conference, Helpful Docs
+
+index.html:
+about page with navigation bar
+
+
+
+CONNECTIONS:
+YouTube channel
+gmail for pgsa staff's use (newsletter? information?)
